@@ -1,1 +1,1 @@
- gitlab/gitlab-runner:latest
+registry.gitlab.cn/omnibus/gitlab-jh:latest
