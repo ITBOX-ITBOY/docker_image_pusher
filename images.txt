@@ -1,1 +1,6 @@
 registry.gitlab.cn/omnibus/gitlab-jh:latest
+redis:latest
+redis:6
+mysql:latest
+mysql:8
+
