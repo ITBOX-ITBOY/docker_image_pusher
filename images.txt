@@ -3,4 +3,6 @@ redis:latest
 redis:6
 mysql:latest
 mysql:8
+nacos/nacos-server
+dm8:dm8_20240613_rev229704_x86_rh6_64
 
