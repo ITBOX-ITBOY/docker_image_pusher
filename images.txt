@@ -1,1 +1,2 @@
-provectuslabs/kafka-ui:latest
+prom/prometheus:latest
+grafana/grafana:latest
