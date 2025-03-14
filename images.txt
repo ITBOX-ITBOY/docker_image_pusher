@@ -1,7 +1,2 @@
-registry.gitlab.cn/omnibus/gitlab-jh:latest
-redis:latest
-redis:6
-mysql:latest
-mysql:8
-nacos/nacos-server
-dm8
+bitnami/zookeeper:latest
+bitnami/kafka:latest
