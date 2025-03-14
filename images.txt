@@ -1,2 +1,1 @@
-bitnami/zookeeper:latest
-bitnami/kafka:latest
+provectuslabs/kafka-ui:latest
